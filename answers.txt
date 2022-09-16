@@ -1,0 +1,4 @@
+What is a gitignore file and what should it include for a Java project?
+What does fast forward mean in git mean?
+Why should we have different branches?
+In a project how many remote repositories do we usually need?
